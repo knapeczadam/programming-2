@@ -1,0 +1,15 @@
+# Blender 3.5.0
+# www.blender.org
+o Polygon1
+v 0 0 0
+v 100 100 0
+v 200 100 0
+v 300 50 0
+v 300 0 0
+l 1 2 3 4 5
+
+o Polygon2
+v 100 75 0
+v 200 75 0
+v 150 200 0
+l 6 7 8
