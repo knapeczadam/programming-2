@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Engine Files">
+      <UniqueIdentifier>{5973c043-0b72-4409-b73c-70cf4995e491}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files">
+      <UniqueIdentifier>{b95867ab-f10c-46d6-a7aa-818f5ff00269}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files\SubClasses">
+      <UniqueIdentifier>{60bf4867-eda4-4846-a009-3d888f222b1e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Engine Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Engine Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Smiley.cpp">
+      <Filter>Game Files\SubClasses</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>Engine Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Game Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Smiley.h">
+      <Filter>Game Files\SubClasses</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
