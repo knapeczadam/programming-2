@@ -18,7 +18,7 @@ Game::~Game()
 
 void Game::Initialize()
 {
-    // TestContainer();
+    TestContainer();
     TestSpriteClass();
 }
 
@@ -142,7 +142,7 @@ Sprite Game::CreateSprite(std::string path, int nrOfRows, int nrOfCols, float fr
     }
     //m_Sprites.push_back(Sprite{path, nrOfCols, nrOfCols, frameSec});
     m_pSprites.push_back(new Sprite{path, nrOfCols, nrOfCols, frameSec});
-    return m_Sprites.back();
+    return *m_pSprites.back();
 }
 
 void Game::TestSpriteClass()
