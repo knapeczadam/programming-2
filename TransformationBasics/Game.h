@@ -40,7 +40,7 @@ private:
     void ScaleDiamond();
     void TransformDiamond();
     void ResetTranslationFactors();
-    void TransformDiamond();
+    void TranslateDiamond();
     void OnMouseDown(float x, float y);
     void DrawDiamondTexture() const;
 
