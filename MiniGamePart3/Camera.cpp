@@ -1,5 +1,5 @@
 // Knapecz, Adam - 1DAE11
-﻿// Knapecz, Adam - 1DAE11
+// Knapecz, Adam - 1DAE11
 #include "pch.h"
 #include "Camera.h"
 #include "utils.h"
