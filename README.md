@@ -30,8 +30,8 @@ It’s shared mainly for **archival purposes** — to document my development as
 
 ## 👨‍🏫 Teaching Staff
 
-- **Co-ordinator:** Goussaert Thomas  
-- **Other teaching staff:** Hoefman Kevin, Samyn Koen
+- **Co-ordinator:** Thomas Goussaert
+- **Other teaching staff:** Kevin Hoefman, Koen Samyn
 
 ---
 
@@ -111,4 +111,5 @@ This repository is distributed under the **MIT License** — feel free to explor
 
 *Made with persistence and way too many `glDrawElements()` calls 😅  
 — Adam*
+
 
