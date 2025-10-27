@@ -5,7 +5,7 @@ Welcome to my **Programming 2** repository — a continuation of the learning jo
 
 ---
 
-## 🗂️ About this repository
+## 🗄️ About this repository
 
 This repo contains all **lab exercises** and **weekly assignments** from the **Programming 2** course, part of the **second semester (2023)** at **Digital Arts & Entertainment**, **Howest University**, **Kortrijk, Belgium**.  
 
@@ -17,9 +17,9 @@ It’s shared mainly for **archival purposes** — to document my development as
 
 ---
 
-## 🧱 Course Information
+## 🔎 Course Information
 
-**📘 Course:** Programming 2  
+**📚   Course:** Programming 2  
 **🏫 University:** Howest DAE – Digital Arts & Entertainment  
 **📍 Location:** Kortrijk, Belgium  
 **🗓️ Semester:** 2023 – Second semester  
@@ -74,7 +74,7 @@ It’s shared mainly for **archival purposes** — to document my development as
 
 ---
 
-## 🔖 Repository Structure
+## 📂 Repository Structure
 
 - Each **week** is stored in a **separate branch**, e.g.  
   - `02` → Week 2  
@@ -104,12 +104,10 @@ If you’re going through DAE yourself: keep exploring, keep refactoring, and do
 
 ---
 
-### 🪪 License
+### ⚖️ License
 This repository is distributed under the **MIT License** — feel free to explore, fork, and learn from it.
 
 ---
 
 *Made with persistence and way too many `glDrawElements()` calls 😅  
 — Adam*
-
-
