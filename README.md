@@ -1,4 +1,4 @@
-# 💻 Programming 2  
+# 🐣 Programming 2  
 
 Hey again, fellow DAE student, curious coder, or adventurous visitor 👋  
 Welcome to my **Programming 2** repository — a continuation of the learning journey from **Programming 1**, this time diving deeper into **C++**, **OpenGL**, and **3D game programming fundamentals**.
@@ -96,4 +96,5 @@ This repository is distributed under the **MIT License** — feel free to explor
 
 *Made with persistence and way too many `glPushMatrix()` calls 💪  
 — Ádám*
+
 
