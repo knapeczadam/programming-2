@@ -91,10 +91,3 @@ If you’re going through DAE yourself: keep exploring, keep refactoring, and do
 
 ### ⚖️ License
 This repository is distributed under the **MIT License** — feel free to explore, fork, and learn from it.
-
----
-
-*Made with persistence and way too many `glPushMatrix()` calls 💪  
-— Ádám*
-
-
